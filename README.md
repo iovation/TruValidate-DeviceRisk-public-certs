@@ -1,3 +1,4 @@
 # TruValidate-DeviceRisk-public-certs
 
-public certificates for all public facing iovation properties
+Public certificates for all public facing iovation properties
+Check Archives for prior public certificates
